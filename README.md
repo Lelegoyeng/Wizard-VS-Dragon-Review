@@ -32,7 +32,6 @@ Di negeri yang damai, seekor naga kuno yang telah lama tertidur kini telah bangk
 
 ## Download
 
-Anda dapat mengunduh game melalui link berikut:
 [Download Wizard VS Dragon](https://github.com/Lelegoyeng/Wizard-VS-Dragon-Review/releases/tag/Exe)
 
 ---
