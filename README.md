@@ -26,6 +26,15 @@ Di negeri yang damai, seekor naga kuno yang telah lama tertidur kini telah bangk
 
 ![Penyihir Mengaktifkan Perisai](Shield_Action.png)
 
+## Requirements
+
+*   Windows 64-bit
+
+## Download
+
+Anda dapat mengunduh game melalui link berikut:
+[Download Wizard VS Dragon](https://github.com/Lelegoyeng/Wizard-VS-Dragon-Review/releases/tag/Exe)
+
 ---
 
 Apakah kamu siap untuk menjadi legenda? Mainkan "Wizard VS Dragon" dan buktikan kekuatan sihirmu!
